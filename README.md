@@ -42,6 +42,9 @@ This repository contains a Tableau dashboard designed to monitor and analyze key
 - **KPI**: Key Performance Indicator – Metrics to measure success in specific areas, such as resolution rates.
 - **KRI**: Key Risk Indicator – Metrics to measure potential risks, such as high backlogs.
 
+<img width="497" alt="image" src="https://github.com/user-attachments/assets/69c2a3fa-864b-4ef9-b6c7-9a80ccc13d34">
+
+
 ---
 
 For more details on specific visuals and definitions, refer to the [Definitions.md](./Definitions.md) file.
