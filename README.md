@@ -44,6 +44,8 @@ This repository contains a Tableau dashboard designed to monitor and analyze key
 
 <img width="497" alt="image" src="https://github.com/user-attachments/assets/69c2a3fa-864b-4ef9-b6c7-9a80ccc13d34">
 
+<img width="497" alt="image" src="https://github.com/user-attachments/assets/3a19f490-1f15-4ea2-87b4-e443c88e126a">
+
 
 ---
 
